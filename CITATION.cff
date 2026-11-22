@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these benchmark results or figures, please cite the following Elsevier Microprocessors and Microsystems article."
+title: "GreenSec-WBSN: a cross-layer embedded middleware with pipelined hardware-software Co-design for medical sensor networks"
+authors:
+  - family-names: "Jebur"
+    given-names: "Tuqa Kareem"
+  - family-names: "Lloret"
+    given-names: "Jaime"
+  - family-names: "Peñalver"
+    given-names: "Lourdes"
+  - family-names: "Hoomod"
+    given-names: "Haider K."
+journal: "Microprocessors and Microsystems"
+volume: 125
+pages: "105349"
+year: 2026
+publisher:
+  name: "Elsevier B.V."
+doi: "10.1016/j.micpro.2026.105349"
