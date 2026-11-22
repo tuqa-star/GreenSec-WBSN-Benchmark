@@ -1,0 +1,4 @@
+Pipeline_Stage,Cycles,Latency_us,Percentage_Total_Time
+Phase I (ASCON-8 Init),320,4.0,29.9
+Phase II (LEA-5 CTR),420,5.2,39.2
+Phase III (ASCON-MAC),330,4.1,30.9

@@ -1,0 +1,8 @@
+Scheme,Battery_Lifetime_Hours
+AES-GCM,14.8
+AES-128-CTR,16.6
+PRESENT-80,21.5
+SIMON/SPECK,24.8
+ASCON-128a,25.8
+GreenSec+AEAD,28.1
+GreenSec (Cipher),30.6
